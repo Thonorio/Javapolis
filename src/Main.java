@@ -1,12 +1,8 @@
-package usage;
-
-import algorithm.TerrainLevel;
-
 import java.util.Scanner;
 
-public class MainTerrainLevel {
+public class Main {
 
-    public MainTerrainLevel() {
+    public Main() {
 
         System.out.println("Welcome to Javapolis!");
 
@@ -45,6 +41,6 @@ public class MainTerrainLevel {
     }
 
     public static void main(String[] args) {
-        new MainTerrainLevel();
+        new Main();
     }
 }

@@ -1,5 +1,3 @@
-package algorithm;
-
 public class TerrainLevel {
 
     public int execute(int[] terrainLevels) {
