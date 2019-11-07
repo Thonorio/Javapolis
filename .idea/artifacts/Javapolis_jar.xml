@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Javapolis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Javapolis_jar</output-path>
+    <root id="archive" name="Javapolis.jar">
+      <element id="module-output" name="Javapolis" />
+    </root>
+  </artifact>
+</component>
